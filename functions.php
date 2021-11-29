@@ -8,3 +8,4 @@ require_once get_theme_file_path('/inc/theme_features.php');
 require_once get_theme_file_path('/inc/adjust_post_queries.php');
 require_once get_theme_file_path('/inc/admin_columns.php');
 require_once get_theme_file_path('/inc/log_in_out.php');
+require_once get_theme_file_path('/inc/custom_login_page.php');
